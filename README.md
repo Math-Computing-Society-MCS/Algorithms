@@ -25,6 +25,6 @@
 #### Dynamic Programming
 * LCS
 * LIS
-* Edit Distance
+* Edit Distance           -   Completed
 * Subset sum problem
 * 0-1 Knapsack problem
