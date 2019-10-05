@@ -2,7 +2,7 @@
 ### Data Structure Algorithms | Mathematical algorithms | Dynamic programming
 
 #### Sorting
-* Bubble Sort
+* Bubble Sort       -   Completed
 * Heap sort
 * Merge sort
 * Quick sort
