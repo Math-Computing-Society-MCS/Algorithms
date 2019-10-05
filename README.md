@@ -2,7 +2,7 @@
 ### Data Structure Algorithms | Mathematical algorithms | Dynamic programming
 
 #### Sorting
-* Bubble Sort
+* Bubble Sort       -   Completed
 * Heap sort
 * Merge sort
 * Quick sort
@@ -25,6 +25,6 @@
 #### Dynamic Programming
 * LCS
 * LIS
-* Edit Distance
+* Edit Distance           -   Completed
 * Subset sum problem
 * 0-1 Knapsack problem
