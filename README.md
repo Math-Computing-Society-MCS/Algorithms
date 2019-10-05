@@ -10,6 +10,9 @@
 * Count sort
 * Selection sort
 
+#### Tree
+* Height / Depth of a tree - Completed
+
 #### Algorithms
 * BFS
 * DFS
