@@ -1,33 +1,44 @@
 # Algorithms
 ### Data Structure Algorithms | Mathematical algorithms | Dynamic programming
 
+---
 #### Sorting
-* Bubble Sort       -   Completed
-* Heap sort
-* Merge sort
-* Quick sort
-* Insertion sort
-* Count sort
-* Selection sort
+|  Sorting       | Python        | C              |CPP          |
+|--------------- |:-------------| :-------------:|------------------:|
+| BubbleSort |               |   ✔️              |              |
+|HeapSort |               |                 |              |
+|InsertionSort|               |                 |            |
+|MergeSort|               |               |              |
+|CountSort|               |                 |              |
+|SelectionSort|               |                 |              |
+| QuickSort|      ✔️          |                 |              |
 
+
+---
 #### Tree
 * Height / Depth of a tree - Completed
 
 #### Algorithms
-* BFS
-* DFS
-* Dijkstra Algo
-* Floyd Marshall Algo
-* Min Spanning Tree - Prim
-* Min Spanning Tree - Kruskal
-* Bridges in a graph
-* Hungarian Algorithm
-* Ford-Fulkerson Algorithm
-* Floyd Cycle detection algo
+|  Graph Algo       | Python        | C              |CPP          |
+|--------------- |:-------------| :-------------:|------------------:|
+| BFS |               |                |              |
+| DFS |               |                |              |
+| Dijkstra Algo|               |                 |            |
+| Min Spanning Tree - Prim|            |               |         |
+| Floyd Marshall Algo|          |                 |              |
+| Ford-Fulkerson Algo|          |                 |              |
+| Floyd Cycle detection algo|   |                 |              |
+| Min Spanning Tree -Kruskal|   |                 |              |
+| Bridges in a graph|          |                 |              |
+|Hungarian Algorithm|   |                 |              |
 
-#### Dynamic Programming
-* LCS
-* LIS
-* Edit Distance           -   Completed
-* Subset sum problem
-* 0-1 Knapsack problem
+
+#### Dynamic 
+|  Dynamic       | Python        | C              |CPP          |
+|--------------- |:-------------| :-------------:|------------------:|
+|LCS |               |                |              |
+|LIS |               |                |              |
+|Edit Distance|               |                 |            |
+|Subset sum problem|            |     ✔️          |         |
+| 0-1 knapsack problem|               |                 |        |
+
