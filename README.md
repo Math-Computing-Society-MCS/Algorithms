@@ -7,11 +7,11 @@
 |--------------- |:-------------| :-------------:|------------------:|
 | BubbleSort |               |   ✔️              |              |
 |HeapSort |               |                 |              |
-|InsertionSort|               |                 |            |
-|MergeSort|               |               |              |
-|CountSort|               |                 |              |
+|InsertionSort|               |                 | ✔️          |
+|MergeSort|               |               |       ✔️       |
+|CountSort|               |                 |     ✔️         |
 |SelectionSort|               |                 |              |
-| QuickSort|      ✔️          |                 |              |
+| QuickSort|      ✔️          |                 |  ✔️           |
 
 
 ---
@@ -38,7 +38,7 @@
 |--------------- |:-------------| :-------------:|------------------:|
 |LCS |               |                |              |
 |LIS |               |                |              |
-|Edit Distance|               |                 |            |
-|Subset sum problem|            |     ✔️          |         |
-| 0-1 knapsack problem|               |                 |        |
+|Edit Distance|               |                 |   ✔️         |
+|Subset sum problem|            |               |         |
+| 0-1 knapsack problem|               |                 | ✔️       |
 
