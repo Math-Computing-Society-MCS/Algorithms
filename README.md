@@ -4,10 +4,10 @@
 #### Sorting
 * Bubble Sort       -   Completed
 * Heap sort
-* Merge sort
-* Quick sort
-* Insertion sort
-* Count sort
+* Merge sort        -   Completed
+* Quick sort        -   Completed
+* Insertion sort    -   Completed
+* Count sort        -   Completed
 * Selection sort
 
 #### Tree
@@ -30,4 +30,4 @@
 * LIS
 * Edit Distance           -   Completed
 * Subset sum problem
-* 0-1 Knapsack problem
+* 0-1 Knapsack problem    -   Completed
