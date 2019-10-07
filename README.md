@@ -3,6 +3,7 @@
 
 ---
 #### Sorting
+
 |  Sorting       | Python        | C              |CPP          |
 |--------------- |:-------------| :-------------:|------------------:|
 | BubbleSort |               |   ✔️              |              |
@@ -12,7 +13,6 @@
 |CountSort|               |                 |     ✔️         |
 |SelectionSort|               |                 |              |
 | QuickSort|      ✔️          |                 |  ✔️           |
-
 
 ---
 #### Tree
