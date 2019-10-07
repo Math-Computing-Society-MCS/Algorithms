@@ -2,7 +2,6 @@
 // source: https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#Overview
 
 #include<iostream>
-#include<math.h>
 
 using namespace std;
 
