@@ -7,11 +7,11 @@
 |  Sorting       | Python        | C              |CPP          |
 |--------------- |:-------------| :-------------:|------------------:|
 | BubbleSort |               |   ✔️              |              |
-|HeapSort |               |                 |              |
+|HeapSort |               |      ✔️           |    ✔️️         |
 |InsertionSort|               |                 | ✔️          |
 |MergeSort|               |               |       ✔️       |
 |CountSort|               |                 |     ✔️         |
-|SelectionSort|               |                 |              |
+|SelectionSort|               |                 | ✔️            |
 | QuickSort|      ✔️          |                 |  ✔️           |
 
 ---
