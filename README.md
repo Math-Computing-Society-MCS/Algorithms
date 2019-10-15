@@ -36,12 +36,18 @@
 | Floyd Cycle detection algo|   |                 |              |
 | Min Spanning Tree -Kruskal|   |                 |              |
 | Bridges in a graph|          |                 |              |
-|Hungarian Algorithm|   |                 |              |
+| Hungarian Algorithm|   |                 |              |
 
 #### Mathematical
 |  Logic          | Python        | C / C++      |
 |-----------------|:--------------|:------------:|
 | HCF & LCM |               |   ✔️              |
+
+#### Mathematical Algorithms
+
+|  Math Algo       | Python        | C              |CPP          |
+|--------------- |:-------------| :-------------:|------------------:|
+|Factorial Algorithm |               |                 |   ✔️         |
 
 #### Dynamic 
 |  Dynamic       | Python        | C              |CPP          |
