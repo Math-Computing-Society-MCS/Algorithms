@@ -6,7 +6,7 @@
 
 |  Sorting       | Python        | C              |CPP          |
 |--------------- |:-------------| :-------------:|------------------:|
-| BubbleSort |               |   ✔️              |              |
+| BubbleSort |               |   ✔️              |  ✔️            |
 |HeapSort |               |      ✔️           |    ✔️️         |
 |InsertionSort|               |                 | ✔️          |
 |MergeSort|               |               |       ✔️       |
@@ -15,8 +15,14 @@
 | QuickSort|      ✔️          |                 |  ✔️           |
 
 ---
-#### Tree
-* Height / Depth of a tree - Completed
+#### Data Structure
+|  Ques       | Python        | C  / CPP            |
+|--------------- |:-------------| :-------------:|
+| Height of a tree |               |   ✔️           |
+| Singuly Linked List |               |   ✔️           |
+| Doubly Linked List |               |   ✔️           |
+| Circular Singuly Linked List |               |   ✔️           |
+| Circular Doubly Linked List |               |   ✔️           |
 
 #### Algorithms
 |  Graph Algo       | Python        | C              |CPP          |
@@ -32,6 +38,10 @@
 | Bridges in a graph|          |                 |              |
 |Hungarian Algorithm|   |                 |              |
 
+#### Mathematical
+|  Logic          | Python        | C / C++      |
+|-----------------|:--------------|:------------:|
+| HCF & LCM |               |   ✔️              |
 
 #### Dynamic 
 |  Dynamic       | Python        | C              |CPP          |
