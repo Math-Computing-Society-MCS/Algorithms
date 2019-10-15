@@ -24,6 +24,7 @@
 | Circular Singuly Linked List |               |   ✔️           |
 | Circular Doubly Linked List |               |   ✔️           |
 
+---
 #### Algorithms
 |  Graph Algo       | Python        | C              |CPP          |
 |--------------- |:-------------| :-------------:|------------------:|
@@ -38,16 +39,13 @@
 | Bridges in a graph|          |                 |              |
 | Hungarian Algorithm|   |                 |              |
 
-#### Mathematical
+#### Mathematical Algorithms
 |  Logic          | Python        | C / C++      |
 |-----------------|:--------------|:------------:|
 | HCF & LCM |               |   ✔️              |
+| Factorial |               | ✔️              |
 
-#### Mathematical Algorithms
-
-|  Math Algo       | Python        | C              |CPP          |
-|--------------- |:-------------| :-------------:|------------------:|
-|Factorial Algorithm |               |                 |   ✔️         |
+---
 
 #### Dynamic 
 |  Dynamic       | Python        | C              |CPP          |
@@ -58,3 +56,4 @@
 |Subset sum problem|            |               |         |
 | 0-1 knapsack problem|               |                 | ✔️       |
 
+---
