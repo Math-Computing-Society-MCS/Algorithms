@@ -42,7 +42,7 @@
 #### Mathematical Algorithms
 |  Logic          | Python        | C / C++      |
 |-----------------|:--------------|:------------:|
-| HCF & LCM |               |   ✔️              |
+| HCF & LCM | ✔️              |   ✔️              |
 | Factorial | ✔️              | ✔️              |
 
 ---
