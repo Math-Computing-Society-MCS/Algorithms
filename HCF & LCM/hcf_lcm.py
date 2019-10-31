@@ -12,11 +12,6 @@ def HCF(x, y):
             
     return hcf
 
-# take input from the user and display result
-num1 = int(input("Enter first number for HCF: "))
-num2 = int(input("Enter second number for HCF: "))
-print("The H.C.F. of", num1,"and", num2,"is", HCF(num1, num2))
-
 
 
 # Python Program to find the L.C.M. of two input number
@@ -37,6 +32,7 @@ def LCM(x, y):
    return lcm
 
 # take input from the user and display result
-num1 = int(input("Enter first number for LCM: "))
-num2 = int(input("Enter second number for LCM: "))
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+print("The H.C.F. of", num1,"and", num2,"is", HCF(num1, num2))
 print("The L.C.M. of", num1,"and", num2,"is", LCM(num1, num2))
